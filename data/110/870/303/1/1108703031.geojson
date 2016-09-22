@@ -1,0 +1,52 @@
+{
+  "id": 1108703031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.5236102,47.1806631,9.5236102,47.1806631",
+    "geom:latitude":47.180663,
+    "geom:longitude":9.52361,
+    "iso:country":"LI",
+    "mz:hierarchy_label":1,
+    "sg:address":"Feldkircherstrasse 100 Postfach 333",
+    "sg:city":"Schaan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"9494 ",
+    "sg:website":"http://www.hilti.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cYHdJ4eoonYtmIne7NMRR_47.180663_9.523610@1308163238"
+    },
+    "wof:country":"LI",
+    "wof:created":1474570908,
+    "wof:geomhash":"288fbbc96b2427bfe9c11b7dc75a4020",
+    "wof:hierarchy":[],
+    "wof:id":1108703031,
+    "wof:lastmodified":1474570908,
+    "wof:name":"HILTI",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-li",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.5236102,
+    47.1806631,
+    9.5236102,
+    47.1806631
+],
+  "geometry": {"coordinates":[9.5236102,47.1806631],"type":"Point"}
+}
